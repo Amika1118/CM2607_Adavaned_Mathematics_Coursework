@@ -1,0 +1,4 @@
+FFT analysis of passenger data shows strong low-frequency peaks (0.05–0.2 cycles/hour) matching morning and evening rush hours.
+Buses have stronger low-frequency peaks because they carry more people at regular times.
+By putting more buses on the road during these peak times, we can reduce overcrowding and waiting.
+This helps make Colombo's transport system more reliable and less congested.

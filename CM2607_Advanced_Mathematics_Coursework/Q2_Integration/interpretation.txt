@@ -1,0 +1,5 @@
+Bus fares follow F_b(x)=x²+x, which grows slower at first, making buses more affordable for short distances under 2 km.
+Taxi fares F_t(x)=1.5x²+2x grow faster due to higher quadratic and linear coefficients.
+For the Fort to Borella route (4.5 km), buses cost approximately 24.75 units while taxis cost 40.50 units (63% more expensive), making buses the economical choice for daily commuters.
+However, taxis may justify the premium for time-sensitive travel due to their direct routes along Darley Road and faster travel times during peak hours.
+This analysis helps passengers make cost-effective decisions and helps the company implement dynamic pricing strategies for Colombo's transport network.

@@ -1,0 +1,4 @@
+The bus travel time gradient (2ax, 2by) means travel time increases quickly with both distance and traffic delay, especially affecting buses with many stops on Maradana Road.
+The taxi travel time gradient (√c x/√(x²+y²), √c y/√(x²+y²)) shows a more balanced effect from distance and delay, making taxis better for direct routes like Darley Road.
+Because of this, taxis are less affected by traffic delays, so they are a good choice when there is congestion.
+Knowing this can help people choose the right transport mode and help planners make Colombo's transport network work better.

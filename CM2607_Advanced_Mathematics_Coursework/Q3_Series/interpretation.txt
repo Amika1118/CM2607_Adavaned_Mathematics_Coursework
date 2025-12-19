@@ -1,0 +1,4 @@
+The approximation P(t)≈5+4sin(πt)−1.5t²+0.25t⁴ grows very fast because of the t⁴ term, reaching about 82,000 in 24 hours.
+This fast growth hides the daily rush hour patterns (like 7-9 AM and 5-7 PM) that come from the sin(πt) part.
+The model works well only for short times (0-6 hours); for full-day predictions, we need more terms or a different approach.
+To plan schedules well, operators should focus on the sin(πt) pattern to find peak times and add more buses and taxis during rush hours at Fort to Borella.

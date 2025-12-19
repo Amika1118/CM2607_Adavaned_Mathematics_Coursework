@@ -1,0 +1,4 @@
+Image transforms show low frequencies for the background and high frequencies for details like license plate edges.
+Fourier transforms remove noise, and DCT helps compress images for OCR (text recognition).
+These methods make vehicle recognition systems work well in different conditions (light, weather, etc.).
+Using these tools, we can track vehicles, predict traffic delays, and change routes in real time to improve traffic flow.
