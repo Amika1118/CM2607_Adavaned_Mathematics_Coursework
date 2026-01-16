@@ -2,11 +2,6 @@
 
 This repository contains a Jupyter notebook for the **CM2607 Advanced Mathematics Coursework**, completed as part of the curriculum at **Informatics Institute of Technology**. The project analyzes transportation optimization in Colombo, Sri Lanka using mathematical modeling techniques.
 
----
-
-## 👨‍🎓 Author
-**Amika Alankara**  
----
 
 ## 📁 Project Structure
 
