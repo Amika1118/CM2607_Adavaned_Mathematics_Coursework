@@ -6,9 +6,6 @@ This repository contains a Jupyter notebook for the **CM2607 Advanced Mathematic
 
 ## 👨‍🎓 Author
 **Amika Alankara**  
-Informatics Institute of Technology  
-University of Moratuwa Affiliated Program
-
 ---
 
 ## 📁 Project Structure
