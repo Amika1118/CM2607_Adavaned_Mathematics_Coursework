@@ -136,8 +136,6 @@ The work showcases:
 
 ## 🔗 Contact
 **Amika Alankara**  
-Informatics Institute of Technology  
-Colombo, Sri Lanka
 
 For academic collaboration or questions regarding this implementation, please open an issue in the repository.
 
