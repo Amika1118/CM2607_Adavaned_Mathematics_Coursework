@@ -114,8 +114,7 @@ This project demonstrates the application of advanced mathematical concepts to r
 
 **Course:** CM2607 – Advanced Mathematics  
 **Institution:** Informatics Institute of Technology  
-**Affiliation:** University of Moratuwa  
-**Academic Level:** Undergraduate Engineering/Computing Program
+**Affiliation:** The Robert Gordon University 
 
 The work showcases:
 - Mathematical modeling of real systems
